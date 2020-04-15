@@ -5,9 +5,9 @@ import java.util.Scanner;
 
 public class main {
     public static void main(String args[]) {
-        Books book1 = new Books("2019.02.11", "Sapkowski", "Poland book company", "50 zl", "600");
-        Movies movies1 = new Movies("2018.12.21", "Marvel", "PMC", "35 zl", "English");
-        Music music1 = new Music("2019.06.16", "Dana", "Dana inc.", "20 zl", "Dana and music");
+        Books book1 = new Books( "568457","2019.02.11", "Sapkowski", "Poland book company", "50 zl", "600");
+        Movies movies1 = new Movies("575657", "2018.12.21", "Marvel", "PMC", "35 zl", "English");
+        Music music1 = new Music("568298", "2019.06.16", "Dana", "Dana inc.", "20 zl", "Dana and music");
         User user2 = new User("Adam", "Czarnecki", "Kominkowa 7", "22", "2020.02.11");
         User user3 = new User("Aleksandra", "Wałek", "Czarna 13", "25", "2019.12.14");
         Rental rental = new Rental();
@@ -21,6 +21,5 @@ public class main {
         for(Renting renting : rental.getRentingList()) {
             System.out.println(renting.toString());
         }
-        System.out.println(music1);
     }
 }
