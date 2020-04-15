@@ -1,0 +1,1 @@
+Pliki s¹ tak póŸno poniewarz gdy je wrzyca³em na github nie klika³em "commit changes" u¿ywaj¹c "upload files" myœl¹æ ¿e siê zrzuci³y po za³adowaniu paska.
