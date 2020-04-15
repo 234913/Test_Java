@@ -1,0 +1,3 @@
+Tworzê przyk³adowe obiekty ksi¹¿ki, muzyki i filmu oraz dwóch przyk³adowych u¿ytkowników.
+Testuje wypo¿yczanie dla obydwu osób oraz oddawanie jedno bez kary drugie z kar¹.
+wypisujê historiê wypo¿yczeñ.

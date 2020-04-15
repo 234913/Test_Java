@@ -1,0 +1,1 @@
+Tworzê klasê main w której przyjmujê dane potem za pomoc¹ try i catch sprawdzam czy podane dane by³y poprawne i wyœwietlam numer lub b³¹d.

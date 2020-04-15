@@ -1,0 +1,1 @@
+Tworzê main w którym tworzê tablicê o wielkoœci 200 a w niej zapisujê losowe liczby nastêpnie przyjmujê liczbê i za pomoc¹ try oraz catch sprwdzam czy nie jest poza zasiêgiem tabeli lub nie jest liczb¹ i na koniec wyœwietlam wskazane pole.
