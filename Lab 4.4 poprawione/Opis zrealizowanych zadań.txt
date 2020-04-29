@@ -1,0 +1,1 @@
+Modyfikujê program tak aby klasy book, movies i music korzysta³y z kompozycji. Tworzê klasê kompozycja w której tworzê index który bêdzie nadawany wewn¹trz klas.

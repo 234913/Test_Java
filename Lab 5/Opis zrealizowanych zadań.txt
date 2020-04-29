@@ -1,0 +1,5 @@
+Aby przetestowaæ programy modyfikujê je aby coœ zwraca³y np.boolean.
+Aby przetestowaæ zadanie pierwsze wpisujê odpowiedni¹ liczbê i sprawdzam boolinem czy wynik koñcowy jest poprawny.
+W zadaniu drugim równierz u¿ywam booleana poniewarz program zwróci prawdê je¿eli znajdziê odpowiednie liczby.
+W zadaniu trzecim wpisujê zdanie oraz po³ówkê zdania do sprawdzenie poprawnoœci programu poniewarz zwracany jest string.
+Zadanie czwrte zwraca tablicê wiêc aby przetestowaæ jego poprawnoœæ wprowadzam tablicê oraz jej odwrotnoœæ i je porównujê.
