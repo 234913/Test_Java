@@ -1,0 +1,12 @@
+Zadanie 1:
+W 
+@RequestMapping(„/greeting”) zmieniam greeting na bye.
+Zadanie2:
+Tworzê kolejne @RequestMapping na bazie poprzedniego.
+Zadanie3:
+Zmieniam w value=name na value=age oraz podmieniam inne „name” na „age”.
+Zadanie4:
+W klasie Greeting dodajê nowego stringa o nazwie age, w klasie greetingcontroller tworzê kolejne @requestparam  oraz kolejne string.format.
+Zadanie5:
+W klasie Greeting dodajê nowego stringa o nazwie plec, w klasie greetingcontroller tworzê kolejne string.format. 
+Tworzê podprogram który bierze imiê i wpisuje je w tabelê, zapamiêtuje d³ugoœæ tabeli i za pomoc¹ tych zmiennych sprawdzam ostatni¹ cyfrê imienia na koniec zwracam stringa.
